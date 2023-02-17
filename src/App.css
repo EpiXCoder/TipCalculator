@@ -1,7 +1,9 @@
 .App {
   text-align: center;
-  padding-left: 35%;
-  padding-right: 35%;
+  padding-top: 10px;
+  padding-left: 10px;
+  width: fit-content;
+  white-space: nowrap;
 }
 
 .App-logo {
